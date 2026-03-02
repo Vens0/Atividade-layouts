@@ -7,4 +7,16 @@
 
 .blue{
     background-color: rgb(80, 80, 255);
+    padding: 20px;
+    margin: 30px;
+}
+
+.yo{
+    background-color: rgb(255, 255, 0);
+    padding: 20px;
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
 }
