@@ -1,6 +1,10 @@
 .purple{
-    background-color: blueviolet;
+    background-color: rgba(136, 30, 235, 0.911);
     display: flex;
     justify-content: center;
     padding: 30px;
+}
+
+.blue{
+    background-color: rgb(80, 80, 255);
 }
