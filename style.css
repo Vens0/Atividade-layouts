@@ -36,3 +36,8 @@
 .marge {
     margin-top: 20px;
 }
+
+.bola{
+    border-radius: 100px;
+    margin: 10px;
+}
